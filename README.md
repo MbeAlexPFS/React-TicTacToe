@@ -1,4 +1,11 @@
-# React + Vite
+# Jeu Tic Tac Toe
+- 3 x 3 cellules
+- Basé sur des composants reacts
+- Sauvegarde et chargement des étapes
+
+<hr>
+
+# React + Vite ( + TailwindCSS, SASS Embeder)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
